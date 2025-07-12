@@ -22,6 +22,6 @@ Usage:
 ```bash
 git clone https://github.com/yourusername/ghsubs.git
 cd ghsubs
-python3 ghsubs.py -d target.com
+python3 ghsubs.py -d target.com -o subdomains.txt
 ```
 ⚠️ Do not forget to add your token to ghsubs.py
