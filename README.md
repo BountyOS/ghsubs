@@ -2,6 +2,8 @@
 
 **ghsubs** is a fast and efficient tool to find subdomains of a target domain by searching through GitHub repositories. It leverages GitHub's API to quickly extract subdomains associated with your target domain from public code and documentation.
 
+[![Watch the ghsubs demo video](https://img.youtube.com/vi/l3jZEGeFqBo/hqdefault.jpg)](https://youtu.be/l3jZEGeFqBo)
+
 ## Features
 
 - Finds subdomains of your target domain by scanning GitHub repositories  
